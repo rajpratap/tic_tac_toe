@@ -1,3 +1,5 @@
+# DEVELOPED BY RAJ PRATAP SINGH
+
 from tkinter import *
 from random import *
 import tkinter.messagebox as tmsg
